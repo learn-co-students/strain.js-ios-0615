@@ -71,3 +71,5 @@ Solve this one yourself using other basic tools instead.
 
 ### Resources
 *[Making your Own callbacks](http://stackoverflow.com/questions/2190850/create-a-custom-callback-in-javascript?answertab=votes#tab-top)
+
+<a href='https://learn.co/lessons/strain.js' data-visibility='hidden'>View this lesson on Learn.co</a>
